@@ -24,5 +24,4 @@ const ex2 = ():number => {
     }
     return sum;
 }
-
-console.log(ex2());
+console.log(ex2());//4613732

@@ -34,3 +34,4 @@ const ex3 = (num:number):number => {
 }
 
 console.log(ex3(600851475143)) //6857
+console.log(getPrimeFactors(11111))
